@@ -7,7 +7,7 @@ type Props = {
   product: ProductDTO;
 };
 
-export default function CatalogCard(product) {
+export default function CatalogCard(product: any){
    return (
     <>
        <div className="dsc-card">
