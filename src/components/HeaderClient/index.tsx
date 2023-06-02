@@ -19,7 +19,7 @@ export default function HeaderClient() {
               </Link>
             </div>
           </div>
-          <Link to={"/login"}>
+          <Link to={"/login"}> 
             Entrar
           </Link>
         </div>
