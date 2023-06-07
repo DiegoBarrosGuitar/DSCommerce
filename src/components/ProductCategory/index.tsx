@@ -1,5 +1,4 @@
-import React, { JSX } from 'react';
-import "./style.css";
+import './styles.css';
 
 type Props = {
   name: string;
@@ -8,7 +7,7 @@ type Props = {
 export default function ProductCategory({name}: Props) {
   return (
     <div className="dsc-category">
-      Eletrônicos
+      {name}
     </div>
   );
 }

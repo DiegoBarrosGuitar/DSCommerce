@@ -1,5 +1,4 @@
-import React, { JSX } from 'react';
-import "./style.css";
+import './styles.css';
 
 type Props = {
   text: string;

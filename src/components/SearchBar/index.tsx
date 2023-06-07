@@ -1,5 +1,4 @@
-import React, { JSX } from 'react';
-import "./styles.css";
+import './styles.css';
 
 export default function SearchBar() {
   return (

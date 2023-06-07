@@ -1,5 +1,4 @@
-import React, { JSX } from "react";
-import "./styles.css";
+import './styles.css';
 import ProductDetailsCard from "../../../components/ProductDetailsCard";
 import ButtonPrimary from "../../../components/ButtonPrimary";
 import ButtonInverse from "../../../components/ButtonInverse";

@@ -1,5 +1,4 @@
-import React from "react";
-import "./styles.css";
+import './styles.css';
 import cartIcon from "../../assets/Cart.svg";
 import { Link } from "react-router-dom";
 

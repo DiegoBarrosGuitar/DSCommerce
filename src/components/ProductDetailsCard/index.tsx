@@ -1,6 +1,5 @@
-import React, { JSX } from "react";
 import ProductCategory from "../ProductCategory";
-import "./styles.css";
+import './styles.css';
 import { ProductDTO } from "../../models/product";
 
 type Props = {
